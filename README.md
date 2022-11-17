@@ -7,3 +7,6 @@
 	let s = "JavaScript syntax highlighting";
 	alert(s);
 ```
+
+let k = "karamo";
+print K;
