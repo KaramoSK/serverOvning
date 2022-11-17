@@ -8,4 +8,4 @@
 	alert(s);
 ```                                                                                                       
 
-![länkad bild](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg)
+![länkad bild](https://www.gamespot.com/a/uploads/original/43/434805/4058035-review_gowragnarok_20221103.00_02_10_15.still002.jpg)
